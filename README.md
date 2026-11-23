@@ -2,6 +2,9 @@
 
 Binary Upload Boom is a full-stack social media application that allows users to create accounts, log in, and share posts with images. The application uses Node.js, Express, and MongoDB to manage user accounts and store posts. Users can interact with content through a social media platform that supports image uploads and user authentication.
 
+## Deployed Site:
+https://binary-upload-boomrc.onrender.com/
+
 ## Features
 
 - **User Authentication:** Users can sign up, log in, and log out of their accounts.
